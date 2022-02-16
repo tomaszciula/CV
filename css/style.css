@@ -49,6 +49,7 @@ body {
 
 .bio-about {
   color: #595959;
+  text-align: justify;
 }
 
 .projects-title {
@@ -226,4 +227,7 @@ body {
 
 .widget:hover {
   animation: heartBeat 1s;
+}
+.agree {
+  text-align: justify;
 }
